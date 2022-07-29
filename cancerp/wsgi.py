@@ -4,7 +4,7 @@ import os
 import sys
 
 # assuming your Django settings file is at '/home/myusername/mysite/mysite/settings.py'
-path = '/home/cancer01/cancerp'
+path = '/home/cancer01/Cancer-Detection-Front/cancerp'
 if path not in sys.path:
     sys.path.insert(0, path)
 
