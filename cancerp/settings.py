@@ -23,9 +23,9 @@ FRONTEND_DIR=BASE_DIR / 'client'
 SECRET_KEY = 'django-insecure-vm$d@cll25jctlu1s(&@zadv^2um_(7)t71e3yb!ifxzoa5^f)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cancer01.pythonanywhere.com']
 
 
 # Application definition
