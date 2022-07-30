@@ -5,7 +5,7 @@
 __pycache__
 db.sqlite3
 media
-cancerp/local_setting.py
+cancerp/local_settings.py
 # Backup files # 
 *.bak 
 
